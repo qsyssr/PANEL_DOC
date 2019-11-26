@@ -1,7 +1,7 @@
 ## 简介
 
-此仓库为 [GeekQu/ss-panel-v3-mod_Uim](https://github.com/GeekQu/ss-panel-v3-mod_Uim) 提供协议客户端的使用文档支持。
-
+此仓库为客户提供协议客户端的使用文档支持。
+（感谢@GeeKQu）
 ## 其他
 
 - 如您觉得文档不够完善，pr welcome。
